@@ -1,0 +1,131 @@
+.mainbox{
+    margin: 0px auto;
+    width: 1912px;
+}
+
+.video{
+    float: right;
+}
+  
+
+.menu{
+    height: 120px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.leftside{
+    width: 100px;
+    height: 80vh;
+    background-color: aqua;
+    float: left;
+    text-align: center;
+}
+
+.main{
+    width: 1712px;
+    height: 80vh;
+    background-color: white;
+    float: left;
+}
+
+.rightside{
+     width: 100px;
+    height: 80vh;
+    background-color: darkcyan;
+    float: left;
+}
+    
+.footer{
+ background-color: skyblue;
+    height: 900px;
+    }
+
+.menu>ul>li{
+    display: inline;
+    position: relative;
+    padding: 10px; 10px; 10px; 10px;
+    background-color: lime;
+    top: 78px;  
+}
+
+.menu>ul>li>{
+    color: black;
+}
+    
+
+
+.menu>ul>li>a{
+    text-decoration: none;
+}
+
+
+.gallery{
+    max-width: 100px;
+    max-height: 80px;
+    text-decoration: none;
+}
+
+
+.TextDeco{
+  text-decoration: none;    
+    }
+
+
+.TextDeco:hover{
+    color: white;
+}
+
+#title{
+    display: inline;
+    position: relative;
+    font-family: 'Syne Mono', monospace;
+    font-size: 30px;
+    top: 30px;
+    left: 30px;
+}
+
+.main>a>img{
+    left: 30px;
+}
+
+#logo{
+    max-height: 119px;
+    float: left;
+}
+
+#tittle1{
+    font-family: monospace
+        display: inline;
+    position: relative
+        top: 25px
+}
+.text{
+    display: inline;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+.icon{
+    max-width: 100px;
+    max-height: 80px;
+}
+
+
+#footerLogo{
+    max-width: 80px;
+    float: right;
+    display: inline;
+    position: relative
+    top: 5px
+    right: 30px;
+}
+
+
+.image{
+    display: inline;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
