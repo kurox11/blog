@@ -2,9 +2,9 @@
 my first project
 
 ## izmantotas valodas
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 
 ## tips
